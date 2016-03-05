@@ -1,3 +1,4 @@
+# Forked for lookin up  Chinese words
 # Dictionary Lookup for Chrome
 
 Dictionary Lookup is a Chrome extension that allows you to quickly look up
